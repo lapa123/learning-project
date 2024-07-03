@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello Word!
+=======
+Hello Word!123
+there are changes1
+>>>>>>> 0edaa40b516f76063d3e32cd522a9cf26a53deb5
